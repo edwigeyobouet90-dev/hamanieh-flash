@@ -1,0 +1,7 @@
+{
+  "name": "Radio Hamanieh Flash",
+  "description": "L'actualité sous un autre angle. Écoutez Radio Hamanieh Flash en direct, suivez nos programmes et restez connectés avec nous sur les réseaux sociaux.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
